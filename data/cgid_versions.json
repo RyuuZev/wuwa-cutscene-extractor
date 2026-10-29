@@ -1,0 +1,2249 @@
+{
+ "source": "https://github.com/Arikatsu/WutheringWaves_Data",
+ "note": "CgId -> first version it appears in datamined videodata.json (branches 0.7-3.7)",
+ "generated": "2026-10-30",
+ "branches": [
+  "0.7",
+  "0.8",
+  "0.9",
+  "0.10",
+  "1.0",
+  "1.1",
+  "1.2",
+  "1.3",
+  "1.4",
+  "2.0",
+  "2.1",
+  "2.2",
+  "2.3",
+  "2.4",
+  "2.5",
+  "2.6",
+  "2.7",
+  "2.8",
+  "3.0",
+  "3.1",
+  "3.2",
+  "3.3",
+  "3.4",
+  "3.5",
+  "3.6",
+  "3.7"
+ ],
+ "videos": {
+  "1": {
+   "version": "0.7",
+   "cg_name": "LoginCg",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0000.M0000",
+   "girl_or_boy": 2
+  },
+  "2": {
+   "version": "0.7",
+   "cg_name": "ShowWorld",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/B0001_NanZhu.B0001_NanZhu",
+   "girl_or_boy": 1
+  },
+  "3": {
+   "version": "0.7",
+   "cg_name": "ShowWorld",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/B0001_NvZhu.B0001_NvZhu",
+   "girl_or_boy": 0
+  },
+  "4": {
+   "version": "0.7",
+   "cg_name": "ShowCity",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/B0002_NanZhu.B0002_NanZhu",
+   "girl_or_boy": 1
+  },
+  "5": {
+   "version": "0.7",
+   "cg_name": "ShowCity",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/B0002_NvZhu.B0002_NvZhu",
+   "girl_or_boy": 0
+  },
+  "6": {
+   "version": "0.7",
+   "cg_name": "Wuguanzhe",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0019_NanZhu.M0019_NanZhu",
+   "girl_or_boy": 1
+  },
+  "7": {
+   "version": "0.7",
+   "cg_name": "Wuguanzhe",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0019_NvZhu.M0019_NvZhu",
+   "girl_or_boy": 0
+  },
+  "8": {
+   "version": "0.7",
+   "cg_name": "DTM1",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections01_NanZhu.DTM_Sections01_NanZhu",
+   "girl_or_boy": 1
+  },
+  "9": {
+   "version": "0.7",
+   "cg_name": "DTM1",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections01_NvZhu.DTM_Sections01_NvZhu",
+   "girl_or_boy": 0
+  },
+  "10": {
+   "version": "0.7",
+   "cg_name": "Tiancheng",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0023_NvZhu.M0023_NvZhu",
+   "girl_or_boy": 0
+  },
+  "11": {
+   "version": "0.7",
+   "cg_name": "Tiancheng",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0023_NanZhu.M0023_NanZhu",
+   "girl_or_boy": 1
+  },
+  "12": {
+   "version": "0.7",
+   "cg_name": "DTM0",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Xuzhang_NanZhu.DTM_Xuzhang_NanZhu",
+   "girl_or_boy": 1
+  },
+  "13": {
+   "version": "0.7",
+   "cg_name": "DTM0",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Xuzhang_NvZhu.DTM_Xuzhang_NvZhu",
+   "girl_or_boy": 0
+  },
+  "14": {
+   "version": "0.7",
+   "cg_name": "ShangHenBaoPo1",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0093.M0093",
+   "girl_or_boy": 2
+  },
+  "15": {
+   "version": "0.7",
+   "cg_name": "FuLuoLuoChengFa",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0144.M0144",
+   "girl_or_boy": 2
+  },
+  "16": {
+   "version": "0.7",
+   "cg_name": "ShangHenBaoPo2",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0093B.M0093B",
+   "girl_or_boy": 2
+  },
+  "17": {
+   "version": "0.7",
+   "cg_name": "FuLuoLuoChengFa2",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/M0145.M0145",
+   "girl_or_boy": 2
+  },
+  "18": {
+   "version": "0.7",
+   "cg_name": "DTM3",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections03_NanZhu.DTM_Sections03_NanZhu",
+   "girl_or_boy": 1
+  },
+  "19": {
+   "version": "0.7",
+   "cg_name": "DTM3",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections03_NvZhu.DTM_Sections03_NvZhu",
+   "girl_or_boy": 0
+  },
+  "20": {
+   "version": "0.7",
+   "cg_name": "DTM4",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections04_NanZhu.DTM_Sections04_NanZhu",
+   "girl_or_boy": 1
+  },
+  "21": {
+   "version": "0.7",
+   "cg_name": "DTM4",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections04_NvZhu.DTM_Sections04_NvZhu",
+   "girl_or_boy": 0
+  },
+  "22": {
+   "version": "0.7",
+   "cg_name": "DTM5",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections05_NanZhu.DTM_Sections05_NanZhu",
+   "girl_or_boy": 1
+  },
+  "23": {
+   "version": "0.7",
+   "cg_name": "DTM5",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections05_NvZhu.DTM_Sections05_NvZhu",
+   "girl_or_boy": 0
+  },
+  "24": {
+   "version": "0.7",
+   "cg_name": "DTM6",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections06_NanZhu.DTM_Sections06_NanZhu",
+   "girl_or_boy": 1
+  },
+  "25": {
+   "version": "0.7",
+   "cg_name": "DTM6",
+   "cg_file": "/Game/Aki/Sequence/TestSequence/MP4base/DTM/DTM_Sections06_NvZhu.DTM_Sections06_NvZhu",
+   "girl_or_boy": 0
+  },
+  "101": {
+   "version": "0.9",
+   "cg_name": "Start",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_Mp4.M0206_Mp4",
+   "girl_or_boy": 1
+  },
+  "102": {
+   "version": "0.9",
+   "cg_name": "Start",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0206/M0206_nvzhu_Mp4.M0206_nvzhu_Mp4",
+   "girl_or_boy": 0
+  },
+  "103": {
+   "version": "0.8",
+   "cg_name": "C3jinzhoutexie",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section1/M01012/M01012_Nanzhu.M01012_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "104": {
+   "version": "0.8",
+   "cg_name": "C3jinzhoutexie",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section1/M01012/M01012_Nvzhu.M01012_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "105": {
+   "version": "0.8",
+   "cg_name": "C3jiyanfight",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0211/M0211_Nanzhu.M0211_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "106": {
+   "version": "0.8",
+   "cg_name": "C3jiyanfight",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0211/M0211_Nvzhu.M0211_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "107": {
+   "version": "0.8",
+   "cg_name": "LYSZW",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01/Lingyang01/R0004/R0004_Nanzhu.R0004_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "108": {
+   "version": "0.8",
+   "cg_name": "LYSZW",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01/Lingyang01/R0004/R0004_Nvzhu.R0004_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "109": {
+   "version": "0.8",
+   "cg_name": "C0002",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002",
+   "girl_or_boy": 2
+  },
+  "110": {
+   "version": "0.10",
+   "cg_name": "C0001",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001",
+   "girl_or_boy": 0
+  },
+  "111": {
+   "version": "0.10",
+   "cg_name": "M0221",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221",
+   "girl_or_boy": 0
+  },
+  "112": {
+   "version": "0.10",
+   "cg_name": "M0221",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0221/M0221.M0221",
+   "girl_or_boy": 1
+  },
+  "113": {
+   "version": "0.10",
+   "cg_name": "C0002",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0002/C0002.C0002",
+   "girl_or_boy": 1
+  },
+  "114": {
+   "version": "0.10",
+   "cg_name": "C0001",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/C0001/C0001.C0001",
+   "girl_or_boy": 1
+  },
+  "115": {
+   "version": "0.10",
+   "cg_name": "BLY01",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4",
+   "girl_or_boy": 0
+  },
+  "116": {
+   "version": "0.10",
+   "cg_name": "BLY01",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/DaPaoPoJieJie/DaPaoPoJieJIe_Mp4.DaPaoPoJieJIe_Mp4",
+   "girl_or_boy": 1
+  },
+  "117": {
+   "version": "0.10",
+   "cg_name": "BLY02",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nvzhu.M0222_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "118": {
+   "version": "0.10",
+   "cg_name": "BLY02",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0222/M0222_Nanzhu.M0222_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "119": {
+   "version": "0.10",
+   "cg_name": "ZhongZhiCC",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nvzhu.ZhongZhiCC_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "120": {
+   "version": "0.10",
+   "cg_name": "ZhongZhiCC",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Function/01/ZhongZhiCC/ZhongZhiCC_Nanzhu.ZhongZhiCC_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "121": {
+   "version": "0.10",
+   "cg_name": "BeiLuoYe01",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nvzhu.BeiLuoYe01_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "122": {
+   "version": "0.10",
+   "cg_name": "BeiLuoYe01",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/01/BeiLuoYe01/BeiLuoYe01_Nanzhu.BeiLuoYe01_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "123": {
+   "version": "0.10",
+   "cg_name": "M0234",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nvzhu.M0234_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "124": {
+   "version": "0.10",
+   "cg_name": "M0234",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01/M0234/M0234_Nanzhu.M0234_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "131": {
+   "version": "1.1",
+   "cg_name": "M0238",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0238/M0238_Nvzhu.M0238_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "132": {
+   "version": "1.1",
+   "cg_name": "M0238",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0238/M0238_Nanzhu.M0238_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "137": {
+   "version": "1.1",
+   "cg_name": "M0244",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0244/M0244_Nvzhu.M0244_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "138": {
+   "version": "1.1",
+   "cg_name": "M0244",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/M0244/M0244_Nanzhu.M0244_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "141": {
+   "version": "1.1",
+   "cg_name": "C0004",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/C0004/C0004.C0004",
+   "girl_or_boy": 0
+  },
+  "142": {
+   "version": "1.1",
+   "cg_name": "C0004",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_1/C0004/C0004.C0004",
+   "girl_or_boy": 1
+  },
+  "143": {
+   "version": "1.1",
+   "cg_name": "M0233",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0233.M0233",
+   "girl_or_boy": 0
+  },
+  "144": {
+   "version": "1.1",
+   "cg_name": "M0233",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0233.M0233",
+   "girl_or_boy": 1
+  },
+  "147": {
+   "version": "1.2",
+   "cg_name": "R0013",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_2/XiangLiYaoDaHuoDong01/R0013/R0013_Nvzhu.R0013_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "148": {
+   "version": "1.2",
+   "cg_name": "R0013",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_2/XiangLiYaoDaHuoDong01/R0013/R0013_Nanzhu.R0013_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "149": {
+   "version": "1.2",
+   "cg_name": "R0012",
+   "cg_file": "/Game/Aki/Movies/Storyboard/R0012.mp4",
+   "girl_or_boy": 0
+  },
+  "150": {
+   "version": "1.2",
+   "cg_name": "R0012",
+   "cg_file": "/Game/Aki/Movies/Storyboard/R0012.mp4",
+   "girl_or_boy": 1
+  },
+  "151": {
+   "version": "1.2",
+   "cg_name": "R0014",
+   "cg_file": "/Game/Aki/Movies/Storyboard/R0014.mp4",
+   "girl_or_boy": 0
+  },
+  "152": {
+   "version": "1.2",
+   "cg_name": "R0014",
+   "cg_file": "/Game/Aki/Movies/Storyboard/R0014.mp4",
+   "girl_or_boy": 1
+  },
+  "153": {
+   "version": "1.1",
+   "cg_name": "C0003",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_1/ChangLi01/C0003/C0003.C0003",
+   "girl_or_boy": 0
+  },
+  "154": {
+   "version": "1.1",
+   "cg_name": "C0003",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_1/ChangLi01/C0003/C0003.C0003",
+   "girl_or_boy": 1
+  },
+  "155": {
+   "version": "1.1",
+   "cg_name": "R1016",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Roles/Changli01/Changli_R01016/Changli_R01016_NvZhu.Changli_R01016_NvZhu",
+   "girl_or_boy": 0
+  },
+  "156": {
+   "version": "1.1",
+   "cg_name": "R1016",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Roles/Changli01/Changli_R01016/Changli_R01016_NanZhu.Changli_R01016_NanZhu",
+   "girl_or_boy": 1
+  },
+  "157": {
+   "version": "1.3",
+   "cg_name": "M0241",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0241.M0241",
+   "girl_or_boy": 1
+  },
+  "158": {
+   "version": "1.3",
+   "cg_name": "M0241",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0241.M0241",
+   "girl_or_boy": 0
+  },
+  "159": {
+   "version": "1.3",
+   "cg_name": "M0242",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_3/M0242/M0242_Nanzhu.M0242_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "160": {
+   "version": "1.3",
+   "cg_name": "M0242",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_3/M0242/M0242_Nvzhu.M0242_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "161": {
+   "version": "1.3",
+   "cg_name": "M0245",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0245.M0245",
+   "girl_or_boy": 1
+  },
+  "162": {
+   "version": "1.3",
+   "cg_name": "M0245",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0245.M0245",
+   "girl_or_boy": 0
+  },
+  "163": {
+   "version": "1.3",
+   "cg_name": "M0246",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0246.M0246",
+   "girl_or_boy": 1
+  },
+  "164": {
+   "version": "1.3",
+   "cg_name": "M0246",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0246.M0246",
+   "girl_or_boy": 0
+  },
+  "165": {
+   "version": "1.3",
+   "cg_name": "M0247",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0247.M0247",
+   "girl_or_boy": 1
+  },
+  "166": {
+   "version": "1.3",
+   "cg_name": "M0247",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0247.M0247",
+   "girl_or_boy": 0
+  },
+  "167": {
+   "version": "1.3",
+   "cg_name": "M0248",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_3/M0248/M0248_Nanzhu.M0248_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "168": {
+   "version": "1.3",
+   "cg_name": "M0248",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/01_3/M0248/M0248_Nvzhu.M0248_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "171": {
+   "version": "1.4",
+   "cg_name": "R0018",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_4/Chun01/R0018/R0018.R0018",
+   "girl_or_boy": 1
+  },
+  "172": {
+   "version": "1.4",
+   "cg_name": "R0018",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_4/Chun01/R0018/R0018.R0018",
+   "girl_or_boy": 0
+  },
+  "173": {
+   "version": "1.2",
+   "cg_name": "R0010",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_2/ZheZhi01/R0010/R0010_Nanzhu.R0010_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "174": {
+   "version": "1.2",
+   "cg_name": "R0010",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_2/ZheZhi01/R0010/R0010_Nvzhu.R0010_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "175": {
+   "version": "1.2",
+   "cg_name": "C0005",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_2/ZheZhi01/C0005/C0005.C0005",
+   "girl_or_boy": 0
+  },
+  "176": {
+   "version": "1.2",
+   "cg_name": "C0005",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_2/ZheZhi01/C0005/C0005.C0005",
+   "girl_or_boy": 1
+  },
+  "177": {
+   "version": "1.3",
+   "cg_name": "C0006",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_3/AnKe01/C0006/C0006.C0006",
+   "girl_or_boy": 0
+  },
+  "178": {
+   "version": "1.3",
+   "cg_name": "C0006",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_3/AnKe01/C0006/C0006.C0006",
+   "girl_or_boy": 1
+  },
+  "179": {
+   "version": "1.4",
+   "cg_name": "R0021",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_4/Chun01/R0021/R0021_Nanzhu.R0021_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "180": {
+   "version": "1.4",
+   "cg_name": "R0021",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/01_4/Chun01/R0021/R0021_Nvzhu.R0021_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "181": {
+   "version": "2.2",
+   "cg_name": "M0260",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0260.M0260",
+   "girl_or_boy": 1
+  },
+  "182": {
+   "version": "2.2",
+   "cg_name": "M0260",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0260.M0260",
+   "girl_or_boy": 0
+  },
+  "183": {
+   "version": "2.2",
+   "cg_name": "M0262",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0262.M0262",
+   "girl_or_boy": 1
+  },
+  "184": {
+   "version": "2.2",
+   "cg_name": "M0262",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0262.M0262",
+   "girl_or_boy": 0
+  },
+  "185": {
+   "version": "2.2",
+   "cg_name": "M0263",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0263.M0263",
+   "girl_or_boy": 1
+  },
+  "186": {
+   "version": "2.2",
+   "cg_name": "M0263",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Storyboard/M0263.M0263",
+   "girl_or_boy": 0
+  },
+  "187": {
+   "version": "2.2",
+   "cg_name": "M0265",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_2/M0265/M0265_Nanzhu.M0265_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "188": {
+   "version": "2.2",
+   "cg_name": "M0265",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_2/M0265/M0265_Nvzhu.M0265_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "189": {
+   "version": "2.0",
+   "cg_name": "M0256",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0256/m0256_Nanzhu.M0256_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "190": {
+   "version": "2.0",
+   "cg_name": "M0256",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0256/M0256_Nvzhu.M0256_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "191": {
+   "version": "2.0",
+   "cg_name": "M0250",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0250/M0250_Nanzhu.M0250_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "192": {
+   "version": "2.0",
+   "cg_name": "M0250",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0250/M0250_Nvzhu.M0250_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "193": {
+   "version": "2.0",
+   "cg_name": "KelaitaR0024",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/Kelaita01/R0024/R0024_Nanzhu.R0024_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "194": {
+   "version": "2.0",
+   "cg_name": "KelaitaR0024",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/Kelaita01/R0024/R0024_Nvzhu.R0024_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "195": {
+   "version": "2.0",
+   "cg_name": "M0255",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0255/M0255_Nanzhu.M0255_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "196": {
+   "version": "2.0",
+   "cg_name": "M0255",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0255/M0255_Nvzhu.M0255_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "197": {
+   "version": "2.0",
+   "cg_name": "C0009",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/LuoKeKe01/C0009/C0009.C0009",
+   "girl_or_boy": 1
+  },
+  "198": {
+   "version": "2.0",
+   "cg_name": "C0009",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/LuoKeKe01/C0009/C0009.C0009",
+   "girl_or_boy": 0
+  },
+  "199": {
+   "version": "2.0",
+   "cg_name": "R0026",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/Kelaita01/R0026/R0026_Nanzhu.R0026_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "200": {
+   "version": "2.0",
+   "cg_name": "R0026",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/Kelaita01/R0026/R0026_Nvzhu.R0026_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "201": {
+   "version": "2.0",
+   "cg_name": "C0007",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/C0007/C0007.C0007",
+   "girl_or_boy": 1
+  },
+  "202": {
+   "version": "2.0",
+   "cg_name": "C0007",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/C0007/C0007.C0007",
+   "girl_or_boy": 0
+  },
+  "203": {
+   "version": "2.0",
+   "cg_name": "M0259",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0259/m0259_Nanzhu.M0259_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "204": {
+   "version": "2.0",
+   "cg_name": "M0259",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02/M0259/M0259_Nvzhu.M0259_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "205": {
+   "version": "2.0",
+   "cg_name": "KelaitaC0008",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/Kelaita01/C0008/C0008.C0008",
+   "girl_or_boy": 1
+  },
+  "206": {
+   "version": "2.0",
+   "cg_name": "KelaitaC0008",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02/Kelaita01/C0008/C0008.C0008",
+   "girl_or_boy": 0
+  },
+  "207": {
+   "version": "2.0",
+   "cg_name": "P0005",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_0/P0005/P0005.P0005",
+   "girl_or_boy": 1
+  },
+  "208": {
+   "version": "2.0",
+   "cg_name": "P0005",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_0/P0005/P0005.P0005",
+   "girl_or_boy": 0
+  },
+  "209": {
+   "version": "2.1",
+   "cg_name": "R0030",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_1/HangHaiDaHuoDong01/R0030/R0030_Nvzhu.R0030_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "210": {
+   "version": "2.1",
+   "cg_name": "R0030",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_1/HangHaiDaHuoDong01/R0030/R0030_Nanzhu.R0030_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "211": {
+   "version": "2.1",
+   "cg_name": "R0029",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_1/HangHaiDaHuoDong01/R0029/R0029_Nvzhu.R0029_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "212": {
+   "version": "2.1",
+   "cg_name": "R0029",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_1/HangHaiDaHuoDong01/R0029/R0029_Nanzhu.R0029_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "213": {
+   "version": "2.1",
+   "cg_name": "C0011",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_1/HangHaiDaHuoDong01/C0011/C0011.C0011",
+   "girl_or_boy": 0
+  },
+  "214": {
+   "version": "2.1",
+   "cg_name": "C0011",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_1/HangHaiDaHuoDong01/C0011/C0011.C0011",
+   "girl_or_boy": 1
+  },
+  "215": {
+   "version": "2.2",
+   "cg_name": "M0266",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_2/M0266/M0266_Nanzhu.M0266_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "216": {
+   "version": "2.2",
+   "cg_name": "M0266",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_2/M0266/M0266_Nvzhu.M0266_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "217": {
+   "version": "2.2",
+   "cg_name": "M0267",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_2/M0267/M0267_Nanzhu.M0267_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "218": {
+   "version": "2.2",
+   "cg_name": "M0267",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_2/M0267/M0267_Nvzhu.M0267_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "221": {
+   "version": "2.2",
+   "cg_name": "C0013",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_2/KanTeLeiLa01/C0013/C0013.C0013",
+   "girl_or_boy": 0
+  },
+  "222": {
+   "version": "2.2",
+   "cg_name": "C0013",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_2/KanTeLeiLa01/C0013/C0013.C0013",
+   "girl_or_boy": 1
+  },
+  "223": {
+   "version": "2.2",
+   "cg_name": "P0018",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_2/P0018/P0018.P0018",
+   "girl_or_boy": 0
+  },
+  "224": {
+   "version": "2.2",
+   "cg_name": "P0018",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_2/P0018/P0018.P0018",
+   "girl_or_boy": 1
+  },
+  "225": {
+   "version": "2.2",
+   "cg_name": "P0025",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_2/P0025/P0025.P0025",
+   "girl_or_boy": 0
+  },
+  "226": {
+   "version": "2.2",
+   "cg_name": "P0025",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_2/P0025/P0025.P0025",
+   "girl_or_boy": 1
+  },
+  "227": {
+   "version": "2.2",
+   "cg_name": "P0026",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_2/P0026/P0026.P0026",
+   "girl_or_boy": 0
+  },
+  "228": {
+   "version": "2.2",
+   "cg_name": "P0026",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/02_2/P0026/P0026.P0026",
+   "girl_or_boy": 1
+  },
+  "229": {
+   "version": "2.3",
+   "cg_name": "R0037",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_3/XiaKong2/R0037/R0037_Nanzhu.R0037_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "230": {
+   "version": "2.3",
+   "cg_name": "R0037",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_3/XiaKong2/R0037/R0037_Nvzhu.R0037_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "231": {
+   "version": "2.3",
+   "cg_name": "R0035",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_3/DaHuoDong01/R0035/R0035_Nanzhu.R0035_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "232": {
+   "version": "2.3",
+   "cg_name": "R0035",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Roles/02_3/DaHuoDong01/R0035/R0035_Nvzhu.R0035_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "233": {
+   "version": "2.3",
+   "cg_name": "C0014Zanni",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_3/C0014/C0014.C0014",
+   "girl_or_boy": 1
+  },
+  "234": {
+   "version": "2.3",
+   "cg_name": "C0014Zanni",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_3/C0014/C0014.C0014",
+   "girl_or_boy": 0
+  },
+  "235": {
+   "version": "2.3",
+   "cg_name": "C0015",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_3/C0015/C0015.C0015",
+   "girl_or_boy": 1
+  },
+  "236": {
+   "version": "2.3",
+   "cg_name": "C0015",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_3/C0015/C0015.C0015",
+   "girl_or_boy": 0
+  },
+  "237": {
+   "version": "2.4",
+   "cg_name": "M0274",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0274/M0274_Nvzhu.M0274_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "238": {
+   "version": "2.4",
+   "cg_name": "M0274",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0274/M0274_Nanzhu.M0274_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "239": {
+   "version": "2.4",
+   "cg_name": "M0277",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0277/M0277_Nvzhu.M0277_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "240": {
+   "version": "2.4",
+   "cg_name": "M0277",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0277/M0277_Nanzhu.M0277_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "241": {
+   "version": "2.4",
+   "cg_name": "C0016",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/C0016/C0016_Nvzhu.C0016_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "242": {
+   "version": "2.4",
+   "cg_name": "C0016",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/C0016/C0016_Nanzhu.C0016_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "245": {
+   "version": "2.5",
+   "cg_name": "M0278",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_5/M0278/M0278_Nvzhu.M0278_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "246": {
+   "version": "2.5",
+   "cg_name": "M0278",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_5/M0278/M0278_Nanzhu.M0278_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "247": {
+   "version": "2.4",
+   "cg_name": "M0269",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0269/M0269.M0269",
+   "girl_or_boy": 0
+  },
+  "248": {
+   "version": "2.4",
+   "cg_name": "M0269",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0269/M0269.M0269",
+   "girl_or_boy": 1
+  },
+  "249": {
+   "version": "2.4",
+   "cg_name": "M0271",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0271/M0271_Nvzhu.M0271_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "250": {
+   "version": "2.4",
+   "cg_name": "M0271",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0271/M0271_Nanzhu.M0271_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "251": {
+   "version": "2.4",
+   "cg_name": "M0273",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0273/M0273.M0273",
+   "girl_or_boy": 0
+  },
+  "252": {
+   "version": "2.4",
+   "cg_name": "M0273",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_4/M0273/M0273.M0273",
+   "girl_or_boy": 1
+  },
+  "253": {
+   "version": "2.5",
+   "cg_name": "C0017",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_5/C0017/C0017_Nvzhu.C0017_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "254": {
+   "version": "2.5",
+   "cg_name": "C0017",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_5/C0017/C0017_Nanzhu.C0017_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "255": {
+   "version": "2.6",
+   "cg_name": "C0019",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/C0019/C0019.C0019",
+   "girl_or_boy": 0
+  },
+  "256": {
+   "version": "2.6",
+   "cg_name": "C0019",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/C0019/C0019.C0019",
+   "girl_or_boy": 1
+  },
+  "257": {
+   "version": "2.6",
+   "cg_name": "C0018",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/C0018/C0018.C0018",
+   "girl_or_boy": 0
+  },
+  "258": {
+   "version": "2.6",
+   "cg_name": "C0018",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/C0018/C0018.C0018",
+   "girl_or_boy": 1
+  },
+  "259": {
+   "version": "2.6",
+   "cg_name": "M0296",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0296/M0296_Nvzhu.M0296_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "260": {
+   "version": "2.6",
+   "cg_name": "M0296",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0296/M0296_Nanzhu.M0296_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "261": {
+   "version": "2.6",
+   "cg_name": "M0297",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0297/M0297_Nvzhu.M0297_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "262": {
+   "version": "2.6",
+   "cg_name": "M0297",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0297/M0297_Nanzhu.M0297_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "263": {
+   "version": "2.6",
+   "cg_name": "M0288",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0288/M0288_Nvzhu.M0288_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "264": {
+   "version": "2.6",
+   "cg_name": "M0288",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0288/M0288_Nanzhu.M0288_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "265": {
+   "version": "2.6",
+   "cg_name": "M0293",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0293/M0293_Nvzhu.M0293_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "266": {
+   "version": "2.6",
+   "cg_name": "M0293",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/M0293/M0293_Nanzhu.M0293_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "267": {
+   "version": "2.7",
+   "cg_name": "M0307",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0307/M0307.M0307",
+   "girl_or_boy": 0
+  },
+  "268": {
+   "version": "2.7",
+   "cg_name": "M0307",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0307/M0307.M0307",
+   "girl_or_boy": 1
+  },
+  "269": {
+   "version": "2.7",
+   "cg_name": "M0308",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0308/M0308.M0308",
+   "girl_or_boy": 0
+  },
+  "270": {
+   "version": "2.7",
+   "cg_name": "M0308",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0308/M0308.M0308",
+   "girl_or_boy": 1
+  },
+  "271": {
+   "version": "2.7",
+   "cg_name": "M0311",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0311/M0311_Nvzhu.M0311_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "272": {
+   "version": "2.7",
+   "cg_name": "M0311",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0311/M0311_Nanzhu.M0311_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "273": {
+   "version": "2.7",
+   "cg_name": "M0302",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0302/M0302.M0302",
+   "girl_or_boy": 0
+  },
+  "274": {
+   "version": "2.7",
+   "cg_name": "M0302",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0302/M0302.M0302",
+   "girl_or_boy": 1
+  },
+  "275": {
+   "version": "2.6",
+   "cg_name": "Fly_M0294",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M0294/M0294_Nvzhu_Level.M0294_Nvzhu_Level",
+   "girl_or_boy": 0
+  },
+  "276": {
+   "version": "2.6",
+   "cg_name": "Fly_M0294",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M0294/M0294_Nanzhu_Level.M0294_Nanzhu_Level",
+   "girl_or_boy": 1
+  },
+  "277": {
+   "version": "2.6",
+   "cg_name": "Fly_M0297",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M0297/M0297_Nvzhu_Level.M0297_Nvzhu_Level",
+   "girl_or_boy": 0
+  },
+  "278": {
+   "version": "2.6",
+   "cg_name": "Fly_M0297",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M0297/M0297_Nanzhu_Level.M0297_Nanzhu_Level",
+   "girl_or_boy": 1
+  },
+  "279": {
+   "version": "2.6",
+   "cg_name": "Fly_M0312",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M0312/M0312_Nvzhu_Level.M0312_Nvzhu_Level",
+   "girl_or_boy": 0
+  },
+  "280": {
+   "version": "2.6",
+   "cg_name": "Fly_M0312",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M0312/M0312_Nanzhu_Level.M0312_Nanzhu_Level",
+   "girl_or_boy": 1
+  },
+  "281": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_09_04_1Z",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_09_04_1Z/M2_09_04_1Z_Nvzhu_Level.M2_09_04_1Z_Nvzhu_Level",
+   "girl_or_boy": 0
+  },
+  "282": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_09_04_1Z",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_09_04_1Z/M2_09_04_1Z_Nanzhu_Level.M2_09_04_1Z_Nanzhu_Level",
+   "girl_or_boy": 1
+  },
+  "283": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_10_09_1Z",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_10_09_1Z/M2_10_09_1Z_Nvzhu_Level.M2_10_09_1Z_Nvzhu_Level",
+   "girl_or_boy": 0
+  },
+  "284": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_10_09_1Z",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_10_09_1Z/M2_10_09_1Z_Nanzhu_Level.M2_10_09_1Z_Nanzhu_Level",
+   "girl_or_boy": 1
+  },
+  "285": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_10_16",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_10_16/M2_10_16_Nvzhu_Level.M2_10_16_Nvzhu_Level",
+   "girl_or_boy": 0
+  },
+  "286": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_10_16",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_10_16/M2_10_16_Nanzhu_Level.M2_10_16_Nanzhu_Level",
+   "girl_or_boy": 1
+  },
+  "287": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_10_16_2",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_10_16_2/M2_10_16_2_Level.M2_10_16_2_Level",
+   "girl_or_boy": 0
+  },
+  "288": {
+   "version": "2.6",
+   "cg_name": "Fly_M2_10_16_2",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_6/POI_Fly/M2_10_16_2/M2_10_16_2_Level.M2_10_16_2_Level",
+   "girl_or_boy": 1
+  },
+  "289": {
+   "version": "2.7",
+   "cg_name": "E0001",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/E0001/E0001_Nvzhu.E0001_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "290": {
+   "version": "2.7",
+   "cg_name": "E0001",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/E0001/E0001_Nanzhu.E0001_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "291": {
+   "version": "2.8",
+   "cg_name": "M0316",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/M0316/M0316_Nvzhu.M0316_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "292": {
+   "version": "2.8",
+   "cg_name": "M0316",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/M0316/M0316_Nanzhu.M0316_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "293": {
+   "version": "2.8",
+   "cg_name": "M0317",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/M0317/M0317_Nvzhu.M0317_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "294": {
+   "version": "2.8",
+   "cg_name": "M0317",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/M0317/M0317_Nanzhu.M0317_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "295": {
+   "version": "2.8",
+   "cg_name": "M0330",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/M0330/M0330_Nvzhu.M0330_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "296": {
+   "version": "2.8",
+   "cg_name": "M0330",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/M0330/M0330_Nanzhu.M0330_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "297": {
+   "version": "2.7",
+   "cg_name": "C0021",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/C0021/C0021.C0021",
+   "girl_or_boy": 0
+  },
+  "298": {
+   "version": "2.7",
+   "cg_name": "C0021",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/C0021/C0021.C0021",
+   "girl_or_boy": 1
+  },
+  "299": {
+   "version": "2.7",
+   "cg_name": "M0310",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0310/M0310_Nvzhu.M0310_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "300": {
+   "version": "2.7",
+   "cg_name": "M0310",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0310/M0310_Nanzhu.M0310_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "301": {
+   "version": "2.7",
+   "cg_name": "M2_12_22",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_22/M2_12_22_Nvzhu.M2_12_22_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "302": {
+   "version": "2.7",
+   "cg_name": "M2_12_22",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_22/M2_12_22_Nanzhu.M2_12_22_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "303": {
+   "version": "2.7",
+   "cg_name": "M2_12_22_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_22_1/M2_12_22_1_Nvzhu.M2_12_22_1_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "304": {
+   "version": "2.7",
+   "cg_name": "M2_12_22_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_22_1/M2_12_22_1_Nanzhu.M2_12_22_1_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "305": {
+   "version": "2.7",
+   "cg_name": "M2_12_20",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_201/M2_12_20_Nan.M2_12_20_Nan",
+   "girl_or_boy": 1
+  },
+  "306": {
+   "version": "2.7",
+   "cg_name": "M2_12_20",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_201/M2_12_20_Nv.M2_12_20_Nv",
+   "girl_or_boy": 0
+  },
+  "307": {
+   "version": "2.7",
+   "cg_name": "M2_12_031",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_031/M2_12_03.M2_12_03",
+   "girl_or_boy": 0
+  },
+  "308": {
+   "version": "2.7",
+   "cg_name": "M2_12_031",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_031/M2_12_03.M2_12_03",
+   "girl_or_boy": 1
+  },
+  "309": {
+   "version": "2.7",
+   "cg_name": "M2_12_06",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_06/M2_12_06_Nv.M2_12_06_Nv",
+   "girl_or_boy": 0
+  },
+  "310": {
+   "version": "2.7",
+   "cg_name": "M2_12_06",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_06/M2_12_06_Nan.M2_12_06_Nan",
+   "girl_or_boy": 1
+  },
+  "311": {
+   "version": "2.7",
+   "cg_name": "M2_12_13",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_13/M2_12_13.M2_12_13",
+   "girl_or_boy": 0
+  },
+  "312": {
+   "version": "2.7",
+   "cg_name": "M2_12_13",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_13/M2_12_13.M2_12_13",
+   "girl_or_boy": 1
+  },
+  "313": {
+   "version": "2.7",
+   "cg_name": "M2_12_24",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_24/M2_12_24_Nv.M2_12_24_Nv",
+   "girl_or_boy": 0
+  },
+  "314": {
+   "version": "2.7",
+   "cg_name": "M2_12_24",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_24/M2_12_24_Nan.M2_12_24_Nan",
+   "girl_or_boy": 1
+  },
+  "315": {
+   "version": "2.7",
+   "cg_name": "M2_12_261",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_26/M2_12_26_Nv.M2_12_26_Nv",
+   "girl_or_boy": 0
+  },
+  "316": {
+   "version": "2.7",
+   "cg_name": "M2_12_261",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_261/M2_12_26_Nan.M2_12_26_Nan",
+   "girl_or_boy": 1
+  },
+  "317": {
+   "version": "2.8",
+   "cg_name": "C0022",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/C0022/C0022.C0022",
+   "girl_or_boy": 0
+  },
+  "318": {
+   "version": "2.8",
+   "cg_name": "C0022",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_8/C0022/C0022.C0022",
+   "girl_or_boy": 1
+  },
+  "319": {
+   "version": "2.7",
+   "cg_name": "M2_12_07",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_07/M2_12_07_Nv.M2_12_07_Nv",
+   "girl_or_boy": 0
+  },
+  "320": {
+   "version": "2.7",
+   "cg_name": "M2_12_07",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_07/M2_12_07_Nan.M2_12_07_Nan",
+   "girl_or_boy": 1
+  },
+  "321": {
+   "version": "2.7",
+   "cg_name": "M2_12_23",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_23/M2_12_23_Nvzhu.M2_12_23_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "322": {
+   "version": "2.7",
+   "cg_name": "M2_12_23",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section2_7/M2_12_23/M2_12_23_Nanzhu.M2_12_23_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "323": {
+   "version": "3.0",
+   "cg_name": "M0318",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0318/M0318_Nvzhu.M0318_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "324": {
+   "version": "3.0",
+   "cg_name": "M0318",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0318/M0318_Nanzhu.M0318_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "325": {
+   "version": "3.0",
+   "cg_name": "M0319",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0319/M0319_Nvzhu.M0319_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "326": {
+   "version": "3.0",
+   "cg_name": "M0319",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0319/M0319_Nanzhu.M0319_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "329": {
+   "version": "3.0",
+   "cg_name": "M0321",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0321/M0321_Nvzhu.M0321_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "330": {
+   "version": "3.0",
+   "cg_name": "M0321",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0321/M0321_Nanzhu.M0321_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "343": {
+   "version": "3.0",
+   "cg_name": "M0328",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0328/M0328_Nvzhu.M0328_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "344": {
+   "version": "3.0",
+   "cg_name": "M0328",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0328/M0328_Nanzhu.M0328_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "347": {
+   "version": "3.0",
+   "cg_name": "C0024",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/C0024/C0024.C0024",
+   "girl_or_boy": 0
+  },
+  "348": {
+   "version": "3.0",
+   "cg_name": "C0024",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/C0024/C0024.C0024",
+   "girl_or_boy": 1
+  },
+  "349": {
+   "version": "3.0",
+   "cg_name": "C0023",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/C0023/C0023.C0023",
+   "girl_or_boy": 0
+  },
+  "350": {
+   "version": "3.0",
+   "cg_name": "C0023",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/C0023/C0023.C0023",
+   "girl_or_boy": 1
+  },
+  "351": {
+   "version": "3.0",
+   "cg_name": "M0341A",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0341A/M0341A_Nanzhu.M0341A_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "352": {
+   "version": "3.0",
+   "cg_name": "M0341A",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0341A/M0341A_Nvzhu.M0341A_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "353": {
+   "version": "3.1",
+   "cg_name": "M0342",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0342/M0342_Nanzhu.M0342_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "354": {
+   "version": "3.1",
+   "cg_name": "M0342",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0342/M0342_Nvzhu.M0342_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "355": {
+   "version": "3.1",
+   "cg_name": "M0332",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0332/M0332_Nanzhu.M0332_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "356": {
+   "version": "3.1",
+   "cg_name": "M0332",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0332/M0332_Nvzhu.M0332_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "365": {
+   "version": "3.1",
+   "cg_name": "M0339",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0339/M0339_Nanzhu.M0339_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "366": {
+   "version": "3.1",
+   "cg_name": "M0339",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0339/M0339_Nvzhu.M0339_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "367": {
+   "version": "3.1",
+   "cg_name": "M0343",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0343/M0343_Nanzhu.M0343_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "368": {
+   "version": "3.1",
+   "cg_name": "M0343",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0343/M0343_Nvzhu.M0343_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "369": {
+   "version": "3.0",
+   "cg_name": "M3_0_22_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_0_22_1/M3_0_22_1.M3_0_22_1",
+   "girl_or_boy": 1
+  },
+  "370": {
+   "version": "3.0",
+   "cg_name": "M3_0_22_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_0_22_1/M3_0_22_1.M3_0_22_1",
+   "girl_or_boy": 0
+  },
+  "371": {
+   "version": "3.0",
+   "cg_name": "M0329B",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0329B/M0329B_Nvzhu.M0329B_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "372": {
+   "version": "3.0",
+   "cg_name": "M0329B",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0329B/M0329B_Nanzhu.M0329B_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "383": {
+   "version": "3.0",
+   "cg_name": "M3_0_13",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_0_13/M3_0_13_Nanzhu.M3_0_13_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "384": {
+   "version": "3.0",
+   "cg_name": "M3_0_13",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_0_13/M3_0_13_Nvzhu.M3_0_13_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "385": {
+   "version": "3.0",
+   "cg_name": "M3_0_28",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_0_28/M3_0_28_Nanzhu.M3_0_28_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "386": {
+   "version": "3.0",
+   "cg_name": "M3_0_28",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_0_28/M3_0_28_Nvzhu.M3_0_28_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "387": {
+   "version": "3.0",
+   "cg_name": "M3_1_11_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_1_11_1/M3_1_11_1.M3_1_11_1",
+   "girl_or_boy": 1
+  },
+  "388": {
+   "version": "3.0",
+   "cg_name": "M3_1_11_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_0/M3_1_11_1/M3_1_11_1.M3_1_11_1",
+   "girl_or_boy": 0
+  },
+  "389": {
+   "version": "3.0",
+   "cg_name": "M0325",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0325/M0325_Nanzhu.M0325_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "390": {
+   "version": "3.0",
+   "cg_name": "M0325",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03/M0325/M0325_Nvzhu.M0325_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "391": {
+   "version": "3.1",
+   "cg_name": "C0025",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/C0025/C0025_Nanzhu.C0025_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "392": {
+   "version": "3.1",
+   "cg_name": "C0025",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/C0025/C0025_Nvzhu.C0025_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "393": {
+   "version": "3.1",
+   "cg_name": "M3_2_13",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_1/M3_2_13/M3_2_13_Nanzhu.M3_2_13_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "394": {
+   "version": "3.1",
+   "cg_name": "M3_2_13",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_1/M3_2_13/M3_2_13_Nvzhu.M3_2_13_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "395": {
+   "version": "3.1",
+   "cg_name": "TestMusicSubtitle",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0311/M0311_Nvzhu.M0311_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "396": {
+   "version": "3.1",
+   "cg_name": "TestMusicSubtitle",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/02_7/M0311/M0311_Nanzhu.M0311_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "397": {
+   "version": "3.2",
+   "cg_name": "M0346",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_2/M0346/M0346_Nvzhu.M0346_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "398": {
+   "version": "3.2",
+   "cg_name": "M0346",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_2/M0346/M0346_Nanzhu.M0346_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "399": {
+   "version": "3.2",
+   "cg_name": "C0026",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_2/C0026/C0026.C0026",
+   "girl_or_boy": 0
+  },
+  "400": {
+   "version": "3.2",
+   "cg_name": "C0026",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_2/C0026/C0026.C0026",
+   "girl_or_boy": 1
+  },
+  "401": {
+   "version": "3.1",
+   "cg_name": "M0376",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0376/M0376_Nanzhu.M0376_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "402": {
+   "version": "3.1",
+   "cg_name": "M0376",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_1/M0376/M0376_Nvzhu.M0376_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "403": {
+   "version": "3.1",
+   "cg_name": "M3_2_38",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_1/M3_2_38/M3_2_38.M3_2_38",
+   "girl_or_boy": 1
+  },
+  "404": {
+   "version": "3.1",
+   "cg_name": "M3_2_38",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_1/M3_2_38/M3_2_38.M3_2_38",
+   "girl_or_boy": 0
+  },
+  "405": {
+   "version": "3.1",
+   "cg_name": "P_3_1_ShengTaiCang_Level",
+   "cg_file": "/Game/Aki/Sequence/Level/3_1/POI_ShengTaiCang/POI_ShengTaiCang_5/P_3_1_ShengTaiCang_Nanzhu_Level.P_3_1_ShengTaiCang_Nanzhu_Level",
+   "girl_or_boy": 1
+  },
+  "406": {
+   "version": "3.1",
+   "cg_name": "P_3_1_ShengTaiCang_Level",
+   "cg_file": "/Game/Aki/Sequence/Level/3_1/POI_ShengTaiCang/POI_ShengTaiCang_5/P_3_1_ShengTaiCang_Nvzhu_Level.P_3_1_ShengTaiCang_Nvzhu_Level",
+   "girl_or_boy": 0
+  },
+  "408": {
+   "version": "3.3",
+   "cg_name": "C0027",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/C0027/C0027.C0027",
+   "girl_or_boy": 0
+  },
+  "409": {
+   "version": "3.3",
+   "cg_name": "C0027",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/C0027/C0027.C0027",
+   "girl_or_boy": 1
+  },
+  "410": {
+   "version": "3.3",
+   "cg_name": "C0028",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/C0028/C0028_Nvzhu.C0028_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "411": {
+   "version": "3.3",
+   "cg_name": "C0028",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/C0028/C0028_Nanzhu.C0028_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "412": {
+   "version": "3.3",
+   "cg_name": "M0349",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0349/M0349_Nvzhu.M0349_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "413": {
+   "version": "3.3",
+   "cg_name": "M0349",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0349/M0349_Nanzhu.M0349_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "414": {
+   "version": "3.3",
+   "cg_name": "M0352",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0352/M0352_Nvzhu.M0352_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "415": {
+   "version": "3.3",
+   "cg_name": "M0352",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0352/M0352_Nanzhu.M0352_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "416": {
+   "version": "3.3",
+   "cg_name": "M0354",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0354/M0354_Nvzhu.M0354_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "417": {
+   "version": "3.3",
+   "cg_name": "M0354",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0354/M0354_Nanzhu.M0354_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "418": {
+   "version": "3.3",
+   "cg_name": "M0355",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0355/M0355_Nvzhu.M0355_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "419": {
+   "version": "3.3",
+   "cg_name": "M0355",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0355/M0355_Nanzhu.M0355_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "420": {
+   "version": "3.3",
+   "cg_name": "M0357",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0357/M0357_Nvzhu.M0357_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "421": {
+   "version": "3.3",
+   "cg_name": "M0357",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0357/M0357_Nanzhu.M0357_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "422": {
+   "version": "3.2",
+   "cg_name": "M3_5_09_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_2/M3_5_09_1/M3_5_09_1.M3_5_09_1",
+   "girl_or_boy": 0
+  },
+  "423": {
+   "version": "3.2",
+   "cg_name": "M3_5_09_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_2/M3_5_09_1/M3_5_09_1.M3_5_09_1",
+   "girl_or_boy": 1
+  },
+  "424": {
+   "version": "3.3",
+   "cg_name": "M3_6_23",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_3/M3_6_23/M3_6_23.M3_6_23",
+   "girl_or_boy": 0
+  },
+  "425": {
+   "version": "3.3",
+   "cg_name": "M3_6_23",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_3/M3_6_23/M3_6_23.M3_6_23",
+   "girl_or_boy": 1
+  },
+  "426": {
+   "version": "3.4",
+   "cg_name": "M0359",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0359/M0359.M0359",
+   "girl_or_boy": 1
+  },
+  "427": {
+   "version": "3.4",
+   "cg_name": "M0359",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0359/M0359.M0359",
+   "girl_or_boy": 0
+  },
+  "428": {
+   "version": "3.4",
+   "cg_name": "C0029",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/C0029/C0029.C0029",
+   "girl_or_boy": 1
+  },
+  "429": {
+   "version": "3.4",
+   "cg_name": "C0029",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/C0029/C0029.C0029",
+   "girl_or_boy": 0
+  },
+  "430": {
+   "version": "3.4",
+   "cg_name": "M0361",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0361/M0361_Nanzhu.M0361_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "431": {
+   "version": "3.4",
+   "cg_name": "M0361",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0361/M0361_Nvzhu.M0361_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "432": {
+   "version": "3.4",
+   "cg_name": "M0362",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0362/M0362_Nanzhu.M0362_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "433": {
+   "version": "3.4",
+   "cg_name": "M0362",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0362/M0362_Nvzhu.M0362_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "434": {
+   "version": "3.4",
+   "cg_name": "M0363",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0363/M0363_Nanzhu.M0363_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "435": {
+   "version": "3.4",
+   "cg_name": "M0363",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_4/M0363/M0363_Nvzhu.M0363_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "436": {
+   "version": "3.3",
+   "cg_name": "M0366",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0366/M0366.M0366",
+   "girl_or_boy": 0
+  },
+  "437": {
+   "version": "3.3",
+   "cg_name": "M0366",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0366/M0366.M0366",
+   "girl_or_boy": 1
+  },
+  "438": {
+   "version": "3.3",
+   "cg_name": "M0355_Loading",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0355/M0355_Loading.M0355_Loading",
+   "girl_or_boy": 0
+  },
+  "439": {
+   "version": "3.3",
+   "cg_name": "M0355_Loading",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_3/M0355/M0355_Loading.M0355_Loading",
+   "girl_or_boy": 1
+  },
+  "440": {
+   "version": "3.5",
+   "cg_name": "M0372",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0372/M0372_Nanzhu.M0372_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "441": {
+   "version": "3.5",
+   "cg_name": "M0372",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0372/M0372_Nvzhu.M0372_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "442": {
+   "version": "3.5",
+   "cg_name": "M0373",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0373/M0373_Nanzhu.M0373_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "443": {
+   "version": "3.5",
+   "cg_name": "M0373",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0373/M0373_Nvzhu.M0373_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "444": {
+   "version": "3.5",
+   "cg_name": "M0374",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0374/M0374.M0374",
+   "girl_or_boy": 1
+  },
+  "445": {
+   "version": "3.5",
+   "cg_name": "M0374",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0374/M0374.M0374",
+   "girl_or_boy": 0
+  },
+  "446": {
+   "version": "3.5",
+   "cg_name": "M0369",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0369/M0369_Nanzhu.M0369_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "447": {
+   "version": "3.5",
+   "cg_name": "M0369",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/M0369/M0369_Nvzhu.M0369_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "448": {
+   "version": "3.3",
+   "cg_name": "P0048",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/03_3/P0048/P0048_Nanzhu.P0048_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "449": {
+   "version": "3.3",
+   "cg_name": "P0048",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/POI/03_3/P0048/P0048_Nvzhu.P0048_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "450": {
+   "version": "3.5",
+   "cg_name": "C0030",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/C0030/C0030_Nanzhu.C0030_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "451": {
+   "version": "3.5",
+   "cg_name": "C0030",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_5/C0030/C0030_Nvzhu.C0030_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "452": {
+   "version": "3.6",
+   "cg_name": "M0378",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0378/M0378_Nanzhu.M0378_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "453": {
+   "version": "3.6",
+   "cg_name": "M0378",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0378/M0378_Nvzhu.M0378_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "454": {
+   "version": "3.6",
+   "cg_name": "M0379",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0379/M0379_Nanzhu.M0379_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "455": {
+   "version": "3.6",
+   "cg_name": "M0379",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0379/M0379_Nvzhu.M0379_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "456": {
+   "version": "3.6",
+   "cg_name": "M0380A",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0380A/M0380A_Nanzhu.M0380A_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "457": {
+   "version": "3.6",
+   "cg_name": "M0380A",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0380A/M0380A_Nvzhu.M0380A_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "458": {
+   "version": "3.6",
+   "cg_name": "M0381",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0381/M0381.M0381",
+   "girl_or_boy": 1
+  },
+  "459": {
+   "version": "3.6",
+   "cg_name": "M0381",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0381/M0381.M0381",
+   "girl_or_boy": 0
+  },
+  "460": {
+   "version": "3.6",
+   "cg_name": "M0384",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0384/M0384_Nanzhu.M0384_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "461": {
+   "version": "3.6",
+   "cg_name": "M0384",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/M0384/M0384_Nvzhu.M0384_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "462": {
+   "version": "3.6",
+   "cg_name": "C0032",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/C0032/C0032.C0032",
+   "girl_or_boy": 1
+  },
+  "463": {
+   "version": "3.6",
+   "cg_name": "C0032",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/C0032/C0032.C0032",
+   "girl_or_boy": 0
+  },
+  "464": {
+   "version": "3.6",
+   "cg_name": "M0382",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/M0382_Nanzhu.M0382_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "465": {
+   "version": "3.6",
+   "cg_name": "M0382",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/M0382_Nvzhu.M0382_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "466": {
+   "version": "3.6",
+   "cg_name": "M0383",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/M0383_Nanzhu.M0383_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "467": {
+   "version": "3.6",
+   "cg_name": "M0383",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/M0383_Nvzhu.M0383_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "468": {
+   "version": "3.6",
+   "cg_name": "P0056",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0056_Nanzhu.P0056_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "469": {
+   "version": "3.6",
+   "cg_name": "P0056",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0056_Nvzhu.P0056_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "470": {
+   "version": "3.6",
+   "cg_name": "P0057",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0057_Nanzhu.P0057_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "471": {
+   "version": "3.6",
+   "cg_name": "P0057",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0057_Nvzhu.P0057_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "472": {
+   "version": "3.6",
+   "cg_name": "P0058",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0058.P0058",
+   "girl_or_boy": 1
+  },
+  "473": {
+   "version": "3.6",
+   "cg_name": "P0058",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0058.P0058",
+   "girl_or_boy": 0
+  },
+  "474": {
+   "version": "3.6",
+   "cg_name": "P0059",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0059_Nanzhu.P0059_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "475": {
+   "version": "3.6",
+   "cg_name": "P0059",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0059_Nvzhu.P0059_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "476": {
+   "version": "3.6",
+   "cg_name": "P0060",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0060_Nanzhu.P0060_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "477": {
+   "version": "3.6",
+   "cg_name": "P0060",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0060_Nvzhu.P0060_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "478": {
+   "version": "3.6",
+   "cg_name": "P0061",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0061_Nanzhu.P0061_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "479": {
+   "version": "3.6",
+   "cg_name": "P0061",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_6/CE/P0061_Nvzhu.P0061_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "480": {
+   "version": "3.5",
+   "cg_name": "M3_10_04",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_04/M3_10_04_Nvzhu.M3_10_04_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "481": {
+   "version": "3.5",
+   "cg_name": "M3_10_04",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_04/M3_10_04_Nanzhu.M3_10_04_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "482": {
+   "version": "3.5",
+   "cg_name": "M3_10_08A",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_08A/M3_10_08A_Nvzhu.M3_10_08A_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "483": {
+   "version": "3.5",
+   "cg_name": "M3_10_08A",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_08A/M3_10_08A_Nanzhu.M3_10_08A_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "484": {
+   "version": "3.5",
+   "cg_name": "M3_10_08B",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_08B/M3_10_08B_Nvzhu.M3_10_08B_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "485": {
+   "version": "3.5",
+   "cg_name": "M3_10_08B",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_08B/M3_10_08B_Nanzhu.M3_10_08B_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "486": {
+   "version": "3.5",
+   "cg_name": "M3_10_16_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_16_1/M3_10_16_1.M3_10_16_1",
+   "girl_or_boy": 0
+  },
+  "487": {
+   "version": "3.5",
+   "cg_name": "M3_10_16_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_5/M3_10_16_1/M3_10_16_1.M3_10_16_1",
+   "girl_or_boy": 1
+  },
+  "488": {
+   "version": "3.7",
+   "cg_name": "M0388",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0388/M0388_Nvzhu.M0388_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "489": {
+   "version": "3.7",
+   "cg_name": "M0388",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0388/M0388_Nanzhu.M0388_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "490": {
+   "version": "3.7",
+   "cg_name": "M0389",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0389/M0389_Nvzhu.M0389_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "491": {
+   "version": "3.7",
+   "cg_name": "M0389",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0389/M0389_Nanzhu.M0389_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "492": {
+   "version": "3.7",
+   "cg_name": "M0390",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0390/M0390_Nvzhu.M0390_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "493": {
+   "version": "3.7",
+   "cg_name": "M0390",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0390/M0390_Nanzhu.M0390_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "494": {
+   "version": "3.7",
+   "cg_name": "M0391",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0391/M0391_Nvzhu.M0391_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "495": {
+   "version": "3.7",
+   "cg_name": "M0391",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0391/M0391_Nanzhu.M0391_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "496": {
+   "version": "3.7",
+   "cg_name": "M0385",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0385/M0385_Nvzhu.M0385_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "497": {
+   "version": "3.7",
+   "cg_name": "M0385",
+   "cg_file": "/Game/Aki/Sequence/LevelA_Seq/Main/03_7/M0385/M0385_Nanzhu.M0385_Nanzhu",
+   "girl_or_boy": 1
+  },
+  "498": {
+   "version": "3.7",
+   "cg_name": "M3_13_03_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_7/M3_13_03_1/M3_13_03_1_Nvzhu.M3_13_03_1_Nvzhu",
+   "girl_or_boy": 0
+  },
+  "499": {
+   "version": "3.7",
+   "cg_name": "M3_13_03_1",
+   "cg_file": "/Game/Aki/Sequence/LevelB_Seq/Main/Section3_7/M3_13_03_1/M3_13_03_1_Nanzhu.M3_13_03_1_Nanzhu",
+   "girl_or_boy": 1
+  }
+ }
+}
